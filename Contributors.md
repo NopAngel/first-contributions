@@ -6112,5 +6112,6 @@ Hector
 - [sash641](https://github.com/sash641)
 - [Mailbek](https://github.com/Mailbek) **Hello all!**
 - [nietoyface](https://github.com/nietoyface) **my first contributions here, thanks!**
+- [NopAngel](https://github.com/NopAngel) **Hi, there! haha**
 - [Roberto Gutiérrez](https://github.com/robertoargs) **This is my first contribution**
 - [Tobias Leong](https://github.com/jaabberwocky) **Hello everyone!**
